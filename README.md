@@ -53,5 +53,5 @@
 
 ### 📫 Vamos conversar?
 
-Me chama no [LinkedIn](https://www.linkedin.com/in/seunome) ou por [email](mailto:seuemail@gmail.com)!
+Me chama no [LinkedIn](https://www.linkedin.com/in/vinicius-batista-392b9b349/) !
 
