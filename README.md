@@ -7,16 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seunome" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://seuportfólio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
-</p>
+  <a href="[https://www.linkedin.com/in/seunome](https://www.linkedin.com/in/vinicius-batista-392b9b349/)" target="_blank">
+   </p>
 
 ---
 
