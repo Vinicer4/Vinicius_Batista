@@ -15,7 +15,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎨 Sou apaixonado por criar experiências incríveis com foco no usuário
-- 💻 Trabalho com **HTML | CSS | JavaScript | React | Figma | Adobe XD**
+- 💻 Trabalho com **HTML | CSS | JavaScript | Flutter | Figma | Canva**
 - 🚀 Atualmente estudando **Next.js e animações com GSAP**
 - 🌎 Sempre buscando unir **design e performance**
 
